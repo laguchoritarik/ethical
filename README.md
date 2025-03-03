@@ -7,7 +7,7 @@ Scans page text for explicit words and hides media if detected.
 Hides all media by default until the page is deemed safe.
 Supports dynamic content loading.
 Installation
-Clone the repository: git clone https://github.com/your-repo/explicit-content-blocker.git.
+Clone the repository: git clone https://github.com/laguchoritarik/ethical.git
 Run npm install and compile with npx tsc.
 Load the extension in Chrome via chrome://extensions/.
 Usage
